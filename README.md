@@ -3,8 +3,8 @@
 •Wellcome to my profile!<br>
 •Software Engineer Student<br>
 •BR 🇧🇷
-## 
-About: 
+
+## About:
 <div>
   <a href="https://github.com/duckb-y">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duckb-y&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -20,4 +20,6 @@ About:
   <img align="center" alt="duckyHTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="duckyCSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />      
 </div>
+##
+
 
