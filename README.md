@@ -7,7 +7,7 @@
 ## About:
 <div>
   <a href="https://github.com/duckb-y">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=duckb-y&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duckb-y&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckb-y&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
