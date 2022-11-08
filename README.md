@@ -1,5 +1,3 @@
-## DUCKBOY
-
 •Welcome to my profile!🎉<br>
 •Software Engineer Student💻<br>
 
