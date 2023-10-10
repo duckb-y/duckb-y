@@ -1,5 +1,5 @@
 •Welcome to my profile!🎉<br>
-•Software Engineer Student💻<br>
+•Programming and IS Student💻<br>
 
 
 ## About:
