@@ -1,5 +1,6 @@
 •Welcome to my profile!🎉<br>
-•Programming and IS Student💻<br>
+•IT intern pursuing a solid and remarkable career💻<br>
+•Currently working with Python, PowerBI and IT Governance at <a href="https://atos.net/en/" target="_blank" >Atos🟦</a>
 
 
 ## About:
