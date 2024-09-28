@@ -1,6 +1,6 @@
 •Welcome to my profile!🎉<br>
 •IT intern pursuing a solid and remarkable career💻<br>
-•Currently working with Python, PowerBI and IT Governance at <a href="https://atos.net/en/" target="_blank" >Atos🟦</a>
+•Currently working Bussiness Analytics & Data Science
 
 
 ## About:
